@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.app{
+  background-image: url(images/david-marcu-78A265wPiO4-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card{
+  height: 50%;
+  width: 50%;
+}
+.btn{
+  margin-top: 150px;
+}
+.heading{
+  color: gold;
+  font-size: 40px;
+  font-family: 'Montez', cursive;
+}
+.button{
+  border-radius: 25px;
+  background-color: khaki;
+}
